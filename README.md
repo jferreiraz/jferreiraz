@@ -12,14 +12,12 @@
 
 
 [<img align="left" alt="jferreiraz | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="jferreiraz | Gmail" width="32px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
 [<img align="left" alt="jferreiraz | Playstore" width="32px" src="https://cdn-icons-png.flaticon.com/512/3128/3128279.png" />][playstore]
 [<img align="left" alt="jferreiraz | Youtube" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
-[<img align="left" alt="jferreiraz | Whatsapp" width="32px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />][whatsapp]
 
 <br><br><h4>
 
->Pleasure, my name is João Felipe, I'm Brazilian and I'm 22 years old. <br><br>
+>Pleasure, my name is João Felipe, I'm Brazilian and I'm 23 years old. <br><br>
 >I have been studying programming since 2020. <br>During these years I managed to develop a very good foundation regarding programming logics. I managed to learn several languages in depth, among them I can mention javascript, php, C and python. <br><br>
 >Mathematics and logical reasoning is my thing, I like numbers, especially when it involves accounting and I'm usually good at it.<br><br>
 >Graduated in systems analysis and development, postgraduate in software engineering currently working at <a href="https://www.linkedin.com/company/takter/">Takter Brazil </a>and studying for master's degree in cybersecurity.
